@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\asus\desktop\drob\drob\drob\drob.h(24): error C2086: drob c: переопределение
+  c:\users\asus\desktop\drob\drob\drob\drob.h(22): note:  см. объявление "c"
+c:\users\asus\desktop\drob\drob\drob\main.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  drob.cpp
+c:\users\asus\desktop\drob\drob\drob\drob.h(24): error C2086: drob c: переопределение
+  c:\users\asus\desktop\drob\drob\drob\drob.h(22): note:  см. объявление "c"
+  Создание кода...
