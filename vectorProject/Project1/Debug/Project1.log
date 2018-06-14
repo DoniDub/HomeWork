@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VectorMy.cpp
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(229): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(245): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(261): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(279): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(295): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(307): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+c:\users\asus\desktop\vectorproject\vectorproject\project1\main.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+c:\users\asus\desktop\vectorproject\vectorproject\project1\vectormy.cpp(220): warning C4172: возвращение адреса локальной или временной переменной : s
+  Project1.vcxproj -> C:\Users\Asus\Desktop\vectorProject\vectorProject\Debug\VectorProject.exe
+  Project1.vcxproj -> C:\Users\Asus\Desktop\vectorProject\vectorProject\Debug\VectorProject.pdb (Partial PDB)
