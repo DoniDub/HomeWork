@@ -1,0 +1,17 @@
+﻿  singleLinkedList.cpp
+  main.cpp
+c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\singlelinkedlist.h(173): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\singlelinkedlist.h(171): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\main.cpp(18): note: см. ссылку на создание экземпляров функции шаблон при компиляции "elem<T> *singleLinkedList<T>::searchElement(const T &)"
+          with
+          [
+              T=int
+          ]
+  c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\main.cpp(6): note: см. ссылку на создание экземпляров класса шаблон при компиляции "singleLinkedList<int>"
+c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\singlelinkedlist.h(129): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\singlelinkedlist.h(115): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\asus\documents\visual studio 2015\projects\listproject\listproject\singlelinkedlist.h(200): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void singleLinkedList<int>::erase(int)"
+  doubleLinkedList.cpp
+  Создание кода...
+  ListProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\ListProject\Debug\ListProject.exe
+  ListProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\ListProject\Debug\ListProject.pdb (Full PDB)
