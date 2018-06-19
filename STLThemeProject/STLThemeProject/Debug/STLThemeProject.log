@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\asus\documents\visual studio 2015\projects\stlthemeproject\stlthemeproject\source.cpp(45): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  STLThemeProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\STLThemeProject\Debug\STLThemeProject.exe
+  STLThemeProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\STLThemeProject\Debug\STLThemeProject.pdb (Full PDB)
