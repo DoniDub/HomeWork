@@ -1,0 +1,20 @@
+﻿  Source.cpp
+  Organization.cpp
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(125): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(127): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\asus\documents\visual studio 2015\projects\organizationproject\organizationproject\organization.cpp(129): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Manager.cpp
+  human.cpp
+  Employee.cpp
+  Developer.cpp
+  Date_.cpp
+  Anykey.cpp
+  Admin.cpp
+  Создание кода...
+  OrganizationProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\OrganizationProject\Debug\OrganizationProject.exe
+  OrganizationProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\OrganizationProject\Debug\OrganizationProject.pdb (Full PDB)
