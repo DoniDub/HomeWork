@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\asus\documents\visual studio 2015\projects\battleshipproject\battleshipproject\main.cpp(4): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Field.cpp
+c:\users\asus\documents\visual studio 2015\projects\battleshipproject\battleshipproject\field.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\battleshipproject\battleshipproject\field.cpp(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\battleshipproject\battleshipproject\field.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\battleshipproject\battleshipproject\field.cpp(183): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\visual studio 2015\projects\battleshipproject\battleshipproject\field.cpp(258): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Создание кода...
+  BattleShipProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\BattleShipProject\Debug\BattleShipProject.exe
+  BattleShipProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\BattleShipProject\Debug\BattleShipProject.pdb (Full PDB)
