@@ -1,0 +1,18 @@
+﻿  WaterVehicle.cpp
+  WaterScooter.cpp
+  VehicleStore.cpp
+c:\users\asus\documents\visual studio 2015\projects\vehiclestoreproject\vehiclestoreproject\vehiclestore.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+  Vehicle.cpp
+  Tank.cpp
+  Plane.cpp
+  Source.cpp
+  Helicopter.cpp
+  GroundVehicle.cpp
+  Car.cpp
+  Bus.cpp
+  Boat.cpp
+  Bike.cpp
+  AirVehicle.cpp
+  Создание кода...
+  VehicleStoreProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\VehicleStoreProject\Debug\VehicleStoreProject.exe
+  VehicleStoreProject.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\VehicleStoreProject\Debug\VehicleStoreProject.pdb (Full PDB)
